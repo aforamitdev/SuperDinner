@@ -2,7 +2,7 @@ POST localhost:5173/auth/login
 Content-Type: application/json
 
 {
-"FistName": "amtirai",
+  "FistName": "amtirai",
   "lastName": "rai",
   "email": "aforamitrai@gmail.com",
   "password": "Amitrai"

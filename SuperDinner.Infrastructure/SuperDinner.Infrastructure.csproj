@@ -7,7 +7,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <ProjectReference Include="..\SuperDinner.Application\SuperDinner.Application.csproj"/>
+        <ProjectReference Include="..\SuperDinner.Application\SuperDinner.Application.csproj" />
     </ItemGroup>
 
 </Project>

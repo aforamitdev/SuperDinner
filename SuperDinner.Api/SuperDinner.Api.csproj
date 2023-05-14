@@ -13,7 +13,9 @@
 
     <ItemGroup>
         <ProjectReference Include="..\SuperDinner.Application\SuperDinner.Application.csproj" />
+        <ProjectReference Include="..\SuperDinner.Infrastructure\SuperDinner.Infrastructure.csproj" />
         <ProjectReference Include="..\SuperSinner.Contracts\SuperSinner.Contracts.csproj" />
+
     </ItemGroup>
 
 </Project>
